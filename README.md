@@ -1,4 +1,10 @@
 # Teoria kompilacji i kompilatory
+Projekt czteroosobwy:
++ KlaudiaK1998
++ MarcinMichna
++ wrobdomi
++ zyngjaku
+
 # *Translator plików w formacie CSV na tabele HTML*
 
 # Spis treści
