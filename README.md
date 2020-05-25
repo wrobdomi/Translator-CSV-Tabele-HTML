@@ -1,5 +1,5 @@
 # Teoria kompilacji i kompilatory
-Projekt czteroosobwy:
+Projekt czteroosobowy:
 + KlaudiaK1998
 + MarcinMichna
 + wrobdomi
